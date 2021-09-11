@@ -1,4 +1,4 @@
 {
-  "latest": "1.4",
-  "updateurl": "https://cdn.discordapp.com/attachments/705778693607391275/884172234430771212/price_for_cr.lua"
+  "latest": "1.5",
+  "updateurl": "https://cdn.discordapp.com/attachments/705778693607391275/886373947904512030/price_for_cr.lua"
 }
